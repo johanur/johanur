@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Johan</h1>
 <h3 align="center">Software Engineer | Frontend Developer</h3>
 
@@ -92,5 +93,6 @@
 
 
 <h3 align="left">Github Stats:</h3>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanurrahman&card_width=790" alt="johanurrahman" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanurrahman&show_icons=true&locale=en&layout=compact" alt="johanurrahman" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanurrahman&show_icons=true&locale=en" alt="johanurrahman" /></p>
