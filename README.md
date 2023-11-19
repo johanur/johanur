@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning **Backend (Node.js, PostgreSQL, MongoDB)**
 
-- 📄 Check my <a href="https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing](https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing" target="blank"> **resume** </a> for a comprehensive overview of my **work experiences** and **achivements**
+- 📄 Check my <a href="https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing](https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing" target="_blank"> **resume** </a> for a comprehensive overview of my **work experiences** and **achivements**
 
 
 # Languages and Tools:
@@ -120,25 +120,25 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://linkedin.com/in/johanur/" target="blank">
+      <a href="https://linkedin.com/in/johanur/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johanur/" height="40" width="40" />
       </a>
       <br>LinkedIn
     </td>
     <td align="center">
-      <a href="https://dev.to/johaur-rahman" target="blank">
+      <a href="https://dev.to/johaur-rahman" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/johaur-rahman" height="40" width="40" />
       </a>
       <br>Dev.to
     </td>
     <td align="center">
-      <a href="https://medium.com/@johanur" target="blank">
+      <a href="https://medium.com/@johanur" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@johanur" height="40" width="40" />
       </a>
       <br>Medium
     </td>
     <td align="center">
-      <a href="https://www.leetcode.com/johanur_rahman/" target="blank">
+      <a href="https://www.leetcode.com/johanur_rahman/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/johanur_rahman/" height="40" width="40" />
       </a>
       <br>Leetcode
