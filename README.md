@@ -1,11 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Johan</h1>
-<h3 align="center">Software Engineer | Frontend Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johanurrahman&label=Profile+Views&color=blueviolet&style=flat&base=25" alt="jeromehardaway" /> </p>
+<h1 align="center">Hi there 👋, I'm Johan</h1>
+<h3 align="center">A passionate Software Engineer who specializes in Frontend</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+# About me
+
+- Have over 5 years of **hands-on** coding experience
+  
+- Highly skilled in both **independent** and **collaborative** project environments
+
+- Ask me about **React, Angular, Vue, JavaScript, TypeScript**
+  
+- I’m currently learning **Backend (Node.js, PostgreSQL, MongoDB)**
+
+- Check my <a href="https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing](https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing" target="blank"> **resume** </a> for a comprehensive overview of my **work experiences** and **achivements**
+
+
+# Languages and Tools:
 
 <table>
   <tr>
@@ -91,13 +102,20 @@
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,nuxtjs,js,ts,reactivex,html,css,sass,bootstrap,tailwind,jest,docker,git,github,netlify&perline=9" />
 </p> --->
 
+<br>
 
-<h3 align="left">Github Stats:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johanurrahman&label=Profile+Views&color=blueviolet&style=flat&base=25" alt="jeromehardaway" /> </p>
+
+
+# Github Stats:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanurrahman&card_width=790" alt="johanurrahman" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanurrahman&show_icons=true&locale=en&layout=compact" alt="johanurrahman" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanurrahman&show_icons=true&locale=en" alt="johanurrahman" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanurrahman" alt="johanurrahman" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+# Connect with me:
 
 <table>
   <tr>
