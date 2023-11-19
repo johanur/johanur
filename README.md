@@ -5,15 +5,15 @@
 
 # About me
 
-- Have over 5 years of **hands-on** coding experience
+- 👨‍💻 Have over 5 years of **hands-on** coding experience
   
-- Highly skilled in both **independent** and **collaborative** project environments
+- 🎯 Highly skilled in both **independent** and **collaborative** project environments
 
-- Ask me about **React, Angular, Vue, JavaScript, TypeScript**
+- 💬 Ask me about **React, Angular, Vue, JavaScript, TypeScript**
   
-- I’m currently learning **Backend (Node.js, PostgreSQL, MongoDB)**
+- 🌱 I’m currently learning **Backend (Node.js, PostgreSQL, MongoDB)**
 
-- Check my <a href="https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing](https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing" target="blank"> **resume** </a> for a comprehensive overview of my **work experiences** and **achivements**
+- 📄 Check my <a href="https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing](https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing" target="blank"> **resume** </a> for a comprehensive overview of my **work experiences** and **achivements**
 
 
 # Languages and Tools:
