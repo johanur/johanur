@@ -96,3 +96,35 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanurrahman&card_width=790" alt="johanurrahman" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanurrahman&show_icons=true&locale=en&layout=compact" alt="johanurrahman" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanurrahman&show_icons=true&locale=en" alt="johanurrahman" /></p>
+
+<h3 align="left">Connect with me:</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/johanur/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johanur/" height="40" width="40" />
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center">
+      <a href="https://dev.to/johaur-rahman" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/johaur-rahman" height="40" width="40" />
+      </a>
+      <br>Dev.to
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@johanur" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@johanur" height="40" width="40" />
+      </a>
+      <br>Medium
+    </td>
+    <td align="center">
+      <a href="https://www.leetcode.com/johanur_rahman/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/johanur_rahman/" height="40" width="40" />
+      </a>
+      <br>Leetcode
+    </td>
+  </tr>
+</table>
+
