@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning **Backend (Node.js, PostgreSQL, MongoDB)**
 
-- 📄 Check my <a href="https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing](https://drive.google.com/file/d/1xrTPXYpcokLcXpkyMkdcof0DQci8O_iY/view?usp=sharing" target="_blank"> **resume** </a> for a comprehensive overview of my **work experiences** and **achivements**
+- 📄 Check my <a href="https://drive.google.com/file/d/1FSB8Xabtta-kJzAQs7Dusz4CC_ikp7x4/view?usp=sharing" target="_blank"> **resume** </a> for a comprehensive overview of my **work experiences** and **achivements**
 
 
 # Languages and Tools:
