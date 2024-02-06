@@ -108,10 +108,10 @@
 
 
 # Github Stats:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanurrahman&card_width=790" alt="johanurrahman" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanurrahman&show_icons=true&locale=en&layout=compact" alt="johanurrahman" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanurrahman&show_icons=true&locale=en" alt="johanurrahman" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanurrahman" alt="johanurrahman" /></a> </p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanur&card_width=790" alt="johanur" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanur&show_icons=true&locale=en&layout=compact" alt="johanur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanur&show_icons=true&locale=en" alt="johanur" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanur" alt="johanur" /></a> </p>
 
 <br>
 
