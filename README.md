@@ -5,7 +5,7 @@
 
 # About me
 
-- 👨‍💻 Have more than 5 years of **hands-on** coding experience
+- 👨‍💻 Have more than 6 years of **hands-on** coding experience
   
 - 🎯 Highly skilled in both **independent** and **collaborative** project environments
 
